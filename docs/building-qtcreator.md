@@ -96,7 +96,7 @@ In Terminal go to **/home/user/TBuild/Libraries** and run
 
 In Terminal go to **/home/user/TBuild/Libraries** and run
 
-    git clone git://repo.or.cz/openal-soft.git
+    git clone https://github.com/kcat/openal-soft.git
 
 then go to **/home/user/TBuild/Libraries/openal-soft/build** and run
 

@@ -196,7 +196,7 @@ Go to ***BuildPath*** and run
     sudo make install
     cd ..
 
-    git clone git://repo.or.cz/openal-soft.git
+    git clone https://github.com/kcat/openal-soft.git
     cd openal-soft
     git checkout openal-soft-1.19.1
     cd build
